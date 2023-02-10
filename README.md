@@ -1,5 +1,5 @@
-# Home-Loan-Recommendation
-Home Loan Recommendation as Final Project on Dibimbing
+# Home-Loan-Approval
+Home Loan Approval as Final Project on Dibimbing
 
 ## Welcome to Home Loan Approval
 In this project, we import data from https://www.kaggle.com/datasets/rishikeshkonapure/home-loan-approval and train a few machine learning model to improve the Approval Rate of Home Loan and get a New Client that Eligible for Home Loan
