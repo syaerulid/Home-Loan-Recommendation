@@ -6,6 +6,6 @@ In this project, we import data from https://www.kaggle.com/datasets/rishikeshko
 
 ## Model Description
 This is a Classification Dataset, we use 3 machine learning model such as : Logistic Regression, Random Forest Classifer, XGBoost
--
+<br>
 In this model we want to minimize False Positive as low as possible (Potential Client that we predict can repay the Home Loan but they can't), because of that we use Precision as our Centric Metrics in this dataset.
 Imbalance type of this dataset being handle with Predict Proba for the better result.
